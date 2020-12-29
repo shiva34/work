@@ -1,0 +1,2 @@
+In the program we have a known signal added to a unknown signal . Then we use fft(Fast Fourier Transform) and its properties to seperate and recover back the unknown signal in MATLAB Live Script.
+This can be used when some known noise is getting added . As we had ot used built in functions it's a simple program and won't deal with very complicated noise signals.
